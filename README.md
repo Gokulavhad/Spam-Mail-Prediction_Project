@@ -1,2 +1,2 @@
-# Spam-Mail-Classifier_Project
+# Spam-Mail-Prediction_Project
 Created Using Google Colaboratory
